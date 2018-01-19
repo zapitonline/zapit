@@ -1,5 +1,5 @@
 # zapit
-ERC20 Token conrtract for the only blockchain-verified product reviews platform Zapit.
+ERC20 Token contract for the only blockchain-verified product reviews platform Zapit.
 
 Zapit identifies the existing diminishing quality of product reviews on Amazon. It aims to
 re-establish trust between online sellers and consumers. With blockchain-based
